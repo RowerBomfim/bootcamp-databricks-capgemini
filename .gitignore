@@ -1,0 +1,33 @@
+# Dados e saídas gerados localmente
+*.csv
+*.tsv
+*.parquet
+*.delta
+*.dbc
+*.db
+*.sqlite
+*.ipynb
+*.html
+*.png
+*.jpg
+*.jpeg
+*.pdf
+data/
+datasets/
+outputs/
+checkpoints/
+_system/
+
+# Arquivos locais e credenciais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jsonl
+__pycache__/
+.ipynb_checkpoints/
+.databricks/
+.terraform/

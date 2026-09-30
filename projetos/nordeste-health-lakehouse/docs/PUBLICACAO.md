@@ -6,6 +6,15 @@
 - Destino: `RowerBomfim/bootcamp-databricks-capgemini`, pasta
   `projetos/nordeste-health-lakehouse`.
 - Formato: notebooks Databricks SOURCE Python com células SQL e Markdown.
+- Natureza: projeto pessoal independente de Rower Bomfim, com escopo próprio.
+
+## Apresentação do projeto pessoal
+
+O README identifica o Nordeste Health Lakehouse como projeto pessoal e
+explica a relação entre Fisioterapia, experiência em UTI e estudos em ADS.
+Por escolha do autor, os arquivos continuam na pasta própria dentro do
+repositório existente. Esta revisão altera apenas a documentação; os quatro
+notebooks permanecem iguais à versão publicada anteriormente.
 
 ## Ajustes aplicados
 

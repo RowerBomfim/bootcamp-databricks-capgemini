@@ -1,5 +1,7 @@
 # Nordeste Health Lakehouse
 
+**Projeto pessoal de Rower Bomfim — saúde e engenharia de dados.**
+
 Pipeline de engenharia de dados em **Databricks** para analisar a capacidade
 hospitalar cadastrada no Nordeste: estabelecimentos, habilitações, leitos,
 profissionais e equipamentos. O projeto usa **Unity Catalog, Volumes,
@@ -11,10 +13,26 @@ qualidade, modelagem dimensional e indicadores de saúde.
 `AL`, `BA`, `CE`, `MA`, `PB`, `PE`, `PI`, `RN` e `SE`. A rede analisada corresponde
 aos cinco arquivos, com estabelecimentos SUS e não SUS conforme a fonte.
 
-> Projeto de portfólio. Os indicadores descrevem o cadastro recebido.
+> Projeto pessoal e independente de portfólio. Os indicadores descrevem o cadastro recebido.
 > Quantidades, horas e classificações exigem interpretação conforme os
 > contratos de medidas; o cadastro não comprova disponibilidade por turno,
 > dedicação exclusiva à UTI ou conformidade assistencial.
+
+## Motivação: saúde e tecnologia
+
+Este projeto conecta minha formação em Fisioterapia e minha experiência no
+ambiente de UTI aos meus estudos em Análise e Desenvolvimento de Sistemas
+e engenharia de dados. Escolhi o domínio da saúde para praticar a construção
+de um pipeline com dados cadastrais de estabelecimentos, leitos,
+profissionais e equipamentos.
+
+O objetivo técnico é organizar fontes relacionadas, manter a rastreabilidade
+e conferir a qualidade das transformações. A experiência em saúde orienta a
+interpretação das medidas e das limitações do cadastro.
+
+O Nordeste Health Lakehouse é um projeto pessoal. Sua hospedagem neste
+repositório reúne os trabalhos de portfólio do autor; o projeto de saúde tem
+escopo e documentação próprios.
 
 ## Problema e entregas
 

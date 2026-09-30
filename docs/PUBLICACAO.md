@@ -3,9 +3,19 @@
 - Fonte: `nordeste-health-lakehouse (1)(1).dbc`.
 - SHA-256 da fonte: `f0720fed794fb2400991fb762f19c616176073fe0d72dd70eaf3e33f777b2084`.
 - Data: 30/09/2026.
-- Destino: `RowerBomfim/bootcamp-databricks-capgemini`, pasta
-  `projetos/nordeste-health-lakehouse`.
+- Organização: projeto pessoal independente, com `README.md` na raiz,
+  código em `notebooks/` e documentação em `docs/`.
+- Repositório de destino: `RowerBomfim/nordeste-health-lakehouse`.
 - Formato: notebooks Databricks SOURCE Python com células SQL e Markdown.
+
+## Apresentação como projeto pessoal
+
+O autor confirmou que o Nordeste Health Lakehouse é um projeto pessoal.
+O README identifica essa natureza e explica a relação entre sua experiência
+em saúde e seus estudos em tecnologia. A estrutura preparada contém apenas
+os arquivos deste projeto. Os quatro notebooks mantêm exatamente o código
+da versão já publicada; esta reorganização altera a documentação e os
+caminhos dentro do repositório.
 
 ## Ajustes aplicados
 

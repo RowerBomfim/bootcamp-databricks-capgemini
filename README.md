@@ -1,10 +1,5 @@
 # Mini Lakehouse de Vendas | Databricks
 
-## Projetos neste repositório
-
-- [Nordeste Health Lakehouse](projetos/nordeste-health-lakehouse/README.md): **projeto pessoal** que conecta saúde e engenharia de dados para analisar cadastros de unidades, leitos, profissionais e equipamentos do Nordeste.
-- [Mini Lakehouse de Vendas](#problema-e-entregas): indicadores de comércio eletrônico do bootcamp.
-
 Pipeline de engenharia de dados para transformar arquivos CSV de pedidos e produtos em indicadores de comércio eletrônico. O projeto combina **Unity Catalog**, **Auto Loader**, **Delta Lake**, **SQL** e **PySpark** em uma arquitetura Medalhão, com rastreabilidade, quarentena de registros inválidos e reconciliação entre as camadas.
 
 > **Escopo:** projeto de portfólio desenvolvido no Databricks. O repositório contém o código do notebook; tabelas, dados e permissões pertencem ao workspace em que ele for executado.
